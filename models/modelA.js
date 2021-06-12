@@ -3,8 +3,9 @@ var dinosaurObject = {
   favoriteFood: "Candy Corn",
   age: 75,
   peopleEaten: 0,
-  eatsPeople: false,
-  jurrasicPeriod: true,
+  isVegan: false,
+  isJurrasic: true,
   friends: ["Raptor", "Stegosaurus", "Larry"],
+  activities: ["Growling", "Avoiding Jeff Goldblum", "Eating Hummas"]
 
 }
