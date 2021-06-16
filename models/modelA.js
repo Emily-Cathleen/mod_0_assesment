@@ -1,11 +1,11 @@
-var dinosaurObject = {
-  name: "Tom the T-Rex",
-  favoriteFood: "Candy Corn",
-  age: 75,
-  peopleEaten: 0,
-  isVegan: false,
-  isJurrasic: true,
-  friends: ["Raptor", "Stegosaurus", "Larry"],
-  activities: ["Growling", "Avoiding Jeff Goldblum", "Eating Hummas"]
+var Dinosaur = {
+  Name: "Tom the T-Rex",
+  FavoriteFood: "Candy Corn",
+  Age: 75,
+  PeopleEaten: 0,
+  IsVegan: false,
+  IsJurrasic: true,
+  Friends: ["Raptor", "Stegosaurus", "Larry"],
+  Activities: ["Growling", "Avoiding Jeff Goldblum", "Eating Hummas"]
 
 }

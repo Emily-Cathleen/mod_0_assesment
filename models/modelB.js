@@ -1,12 +1,12 @@
-var developerObject = {
-  nameFirst: "Emily",
-  nameLast: "Corcoran",
-  age: 30,
-  daysAwake: 2,
-  isVeggitarian: true,
-  isAngry: false,
-  activities: ["yoga", "school", "running"],
-  leastFavoriteChores: ["dishes", "laundry", "going to work"]
-   
+var Developer = {
+  NameFirst: "Emily",
+  NameLast: "Corcoran",
+  Age: 30,
+  DaysAwake: 2,
+  IsVeggitarian: true,
+  IsAngry: false,
+  Activities: ["Yoga", "School", "Running"],
+  LeastFavoriteChores: ["Dishes", "Laundry", "Work"]
+
 
 }
